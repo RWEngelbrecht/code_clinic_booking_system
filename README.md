@@ -1,1 +1,0 @@
-# Code Clinic Booking System for WeThinkCode_
